@@ -11,8 +11,6 @@ Inputs:
 
 ![image](https://user-images.githubusercontent.com/43274864/117699039-be41df00-b19a-11eb-984c-ea1fcf8891bf.png)
 
-Prediction: 
-
 ![image](https://user-images.githubusercontent.com/43274864/117699079-cac63780-b19a-11eb-8bbc-5b6eb53000d3.png)
 
 To start the project, a good option is to use google colab, just click in the icon to open it.
